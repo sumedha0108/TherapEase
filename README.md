@@ -1,5 +1,7 @@
 # Mental Health Chatbot Project
 
+blog link - https://sumedhapandravada.wixsite.com/therapease/post/pandora
+
 ## Overview
 
 The Mental Health Chatbot project aims to foster well-being by offering empathetic interactions tailored to users' mental health needs. This chatbot is built by fine-tuning the MentaLLaMA-chat-7B model using a custom dataset to enhance its ability to provide mental health support and information.
